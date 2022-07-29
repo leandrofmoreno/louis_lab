@@ -33,7 +33,7 @@ jupyter-core==4.6.3       # via jupyter-client, nbconvert, nbformat, notebook
 kiwisolver==1.2.0         # via matplotlib
 markupsafe==1.1.1         # via jinja2
 matplotlib==3.2.2         # via -r requirements.txt, coolbox, seaborn
-mistune==0.8.4            # via nbconvert
+mistune==2.0.3            # via nbconvert
 multiprocess==0.70.10     # via cooler
 nbconvert==5.6.1          # via notebook
 nbformat==5.0.7           # via ipywidgets, nbconvert, notebook
