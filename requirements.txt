@@ -35,7 +35,7 @@ markupsafe==1.1.1         # via jinja2
 matplotlib==3.2.2         # via -r requirements.txt, coolbox, seaborn
 mistune==0.8.4            # via nbconvert
 multiprocess==0.70.10     # via cooler
-nbconvert==5.6.1          # via notebook
+nbconvert==6.3.0          # via notebook
 nbformat==5.0.7           # via ipywidgets, nbconvert, notebook
 notebook==6.0.3           # via widgetsnbextension
 numpy==1.19.0             # via -r requirements.txt, coolbox, cooler, h5py, matplotlib, pandas, scipy, seaborn
